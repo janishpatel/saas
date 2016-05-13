@@ -35,6 +35,9 @@ gem 'spring',        group: :development
 
 #use bootstrap library for css
 gem 'bootstrap-sass', '3.3.1'
+
+#use font awesome library for icons
+gem "font-awesome-sass", "4.2.0"
 # Use ActiveModel has_secure_password
 # gem 'bcrypt', '~> 3.1.7'
 
