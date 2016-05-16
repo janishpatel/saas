@@ -41,6 +41,8 @@ gem "font-awesome-sass", "4.2.0"
 # Use ActiveModel has_secure_password
 # gem 'bcrypt', '~> 3.1.7'
 
+gem 'devise', '3.4.1'
+
 # Use unicorn as the app server
 # gem 'unicorn'
 
